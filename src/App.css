@@ -1,0 +1,11 @@
+/*This file represents the css styling for the App.jsx file */
+      .app-container {
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+
+      

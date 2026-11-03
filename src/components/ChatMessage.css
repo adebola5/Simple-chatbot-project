@@ -1,0 +1,30 @@
+/*This file represents the css styling for the ChatMessage.jsx file and the default messages shown when a user visits the site*/
+.chat-message-user {
+        display: flex;
+        justify-content: end;
+        align-items: start;
+      }
+
+      .chat-message-robot {
+        display: flex;
+        align-items: start;
+      }
+
+      .chat-message-text {
+        background-color: #eff8ff;
+        padding: 15px 20px;
+        border-radius: 10px;
+        max-width: 300px;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        overflow-wrap: break-word;
+        max-width: 300px;
+       
+      }
+
+      .chat-message-profile {
+        width: 45px;
+      }
+
+    

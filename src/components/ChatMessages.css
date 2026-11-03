@@ -1,0 +1,7 @@
+/*This file represents the css styling for the ChatMessages.jsx file */
+  .chat-messages-container{
+        flex-grow: 1;
+        margin-top: 20px;
+        overflow: scroll;
+        scrollbar-width: none;
+      }

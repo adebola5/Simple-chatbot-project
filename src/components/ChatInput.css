@@ -1,0 +1,25 @@
+/*This file represents the css styling for the ChatInput.jsx file and the send button and the textbox*/
+.send-button {
+        background-color: #74c9ff;
+        color: black;
+        margin-left: 10px;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 10px;
+        font-size: 15px;
+        cursor: pointer;
+      }
+
+      .chat-input {
+        padding: 12px 15px;
+        border-radius: 10px;
+        border-width: 1px;
+        font-size: 15px;
+        flex-grow: 1;
+      }
+
+      .chat-input-container {
+        display: flex;
+        margin-bottom: 20px;
+       
+      }
