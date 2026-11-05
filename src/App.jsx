@@ -21,16 +21,6 @@ import './App.css'
             sender: "robot",
             id: "id2",
           },
-          {
-            message: "can you get me today's date",
-            sender: "user",
-            id: "id3",
-          },
-          {
-            message: "Today is October 15",
-            sender: "robot",
-            id: "id4",
-          },
         ]);
 
         
